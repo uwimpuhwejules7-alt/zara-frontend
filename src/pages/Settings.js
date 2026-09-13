@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
-  FiArrowLeft, FiUser, FiBell, FiLock, FiMonitor, FiGlobe,
+  FiArrowLeft, FiUser, FiBell, FiMonitor, FiGlobe,
   FiTrash2, FiShield, FiSmartphone, FiDatabase, FiKey,
-  FiHelpCircle, FiInfo, FiZap, FiHeart, FiEye, FiMic,
+  FiHelpCircle, FiInfo, FiZap, FiHeart, FiEye,
   FiCamera, FiWifi, FiClock, FiStar, FiSliders
 } from 'react-icons/fi';
 

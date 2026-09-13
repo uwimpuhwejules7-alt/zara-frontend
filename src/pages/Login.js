@@ -81,7 +81,7 @@ export default function Login() {
               <input type="checkbox" style={{ width: 'auto', marginRight: '6px' }} />
               Remember me
             </label>
-            <a href="#">Forgot password?</a>
+            <button type="button" style={{ background: "none", border: "none", color: "#2563EB", cursor: "pointer", fontSize: "13px" }}>Forgot password?</button>
           </div>
 
           <button type="submit" style={styles.btnPrimary} disabled={loading}>
